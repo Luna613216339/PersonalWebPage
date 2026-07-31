@@ -58,7 +58,7 @@ const CONFIG = {
   // 侧栏（SidePanel）小部件
   // ---------------------------------------------------------------------------
   /** 公告（有公告数据时） */
-  FUWARI_WIDGET_NOTICE: true,
+  FUWARI_WIDGET_NOTICE: false,
   /** 最新文章列表 */
   FUWARI_WIDGET_LATEST_POSTS: true,
   /** 分类云/列表 */
@@ -68,7 +68,7 @@ const CONFIG = {
   /** 侧栏头像/昵称下的「个人页」链接路径 */
   FUWARI_PROFILE_PATH: '/about',
   /** 联系/社群入口卡片 */
-  FUWARI_WIDGET_CONTACT: true,
+  FUWARI_WIDGET_CONTACT: false,
   /** 侧栏广告位总开关 */
   FUWARI_WIDGET_AD: false,
   /** 侧栏广告位内：是否渲染 WWAds */
